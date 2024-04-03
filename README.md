@@ -12,6 +12,6 @@
 ## Running 
 с++: `$ ./generator <OUTPUT_FILENAME> <NUMBER_OF_ADDRESSES>`
 
-python: `$ pytnon main.py <DLL_PATH> <OUTPUT_FILENAME> <NUMBER_OF_ADDRESSES>`
+python: `$ python main.py <DLL_PATH> <OUTPUT_FILENAME> <NUMBER_OF_ADDRESSES>`
 
 Сгенерированные адреса будут записаны в файл с именем `OUTPUT_FILENAME`
